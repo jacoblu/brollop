@@ -12,6 +12,6 @@ project-date-eng: May 16th 2020
 
 ---
 
-<a href="xkcd.com/943">xkcd 943</a>
+<a href="https://xkcd.com/943">xkcd 943</a>
 <img src="img/portfolio/xkcd55.jpg" class="img-responsive img-centered" width="85%" alt="{{ post.alt }}">
-<a href="xkcd.com/943">xkcd 55</a>
+<a href="https://xkcd.com/55">xkcd 55</a>
